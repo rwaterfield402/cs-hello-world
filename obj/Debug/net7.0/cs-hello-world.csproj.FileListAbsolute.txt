@@ -1,0 +1,15 @@
+/Users/ruthiegw/Desktop/cs-hello-world/bin/Debug/net7.0/cs-hello-world
+/Users/ruthiegw/Desktop/cs-hello-world/bin/Debug/net7.0/cs-hello-world.deps.json
+/Users/ruthiegw/Desktop/cs-hello-world/bin/Debug/net7.0/cs-hello-world.runtimeconfig.json
+/Users/ruthiegw/Desktop/cs-hello-world/bin/Debug/net7.0/cs-hello-world.dll
+/Users/ruthiegw/Desktop/cs-hello-world/bin/Debug/net7.0/cs-hello-world.pdb
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.csproj.AssemblyReference.cache
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.AssemblyInfoInputs.cache
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.AssemblyInfo.cs
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.csproj.CoreCompileInputs.cache
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.dll
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/refint/cs-hello-world.dll
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.pdb
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/cs-hello-world.genruntimeconfig.cache
+/Users/ruthiegw/Desktop/cs-hello-world/obj/Debug/net7.0/ref/cs-hello-world.dll
